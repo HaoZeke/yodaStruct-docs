@@ -1,3 +1,7 @@
 site_name: yodaStruct User Documentation
 theme:
   name: 'material'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/amritagos/structureFactor'
